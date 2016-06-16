@@ -1,0 +1,58 @@
+* {
+	/*: 1px solid black;*/
+}
+
+html {
+	padding: 40px 20%;
+	background-color: #ABF8D3;
+	font-family: 'Segoe UI', 'Calibri';
+	font-size: 20px;
+	color: #282828;
+}
+
+header {
+	background-color: coral;
+	padding: 40px 20px;
+	border-radius: 20px;
+	font-family: 'Bebas Neue Light', 'LemonChicken', 'Comic Zine OT';
+	font-size: 90px;
+	text-align: center;
+}
+
+article {
+	background-color: white;
+	margin: 20px 0;
+	padding: 30px;
+	border-radius: 20px;
+}
+
+article header {
+	float: left;
+	background-color: white;
+	margin: 0 0 20px 0;
+	padding: 0;
+	font-family: 'Trebuchet MS';
+	font-size: 35px;
+}
+
+article subtitle {
+	float: right;
+	margin: 0 0 20px 0;
+	font-family: 'Trebuchet MS';
+	font-size: 28px;
+	line-height: 35px;
+}
+
+article p {
+	clear: both;
+	margin: 20px 0 0 0;
+}
+
+figure {
+	text-align: center;
+	margin-bottom: 30px;
+}
+
+figure img {
+	width: 100%;
+}
