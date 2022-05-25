@@ -102,7 +102,7 @@ defaults:
       type: projects
     values:
       layout: single
-      author_profile: false
+      author_profile: true
       share: false
 
 tag_archive:
