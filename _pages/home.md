@@ -1,6 +1,6 @@
 ---
+layout: single
 permalink: /
-title: "About"
 hidden: true
 ---
 
