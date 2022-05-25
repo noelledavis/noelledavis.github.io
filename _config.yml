@@ -13,6 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+
 title: Noelle Davis
 email:
 description: >- # this means to ignore newlines until "baseurl:"
@@ -59,10 +60,10 @@ plugins:
 author:
   name   : "Noelle Davis"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "PhD EECS / UC Berkeley / 2025 \n\n   BS EE / Caltech / 2020"
+  bio    : "PhD EECS / UC Berkeley / ~2025 \n BS EE / Caltech / 2020"
   links:
     - label: "Google Scholar"
-      icon: "fab fa-fw fa-google"
+      icon: "fab fa-fw fa-googlescholar"
       url: "https://scholar.google.com/citations?user=apaTOlIAAAAJ&hl=en"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
