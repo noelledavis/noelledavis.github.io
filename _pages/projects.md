@@ -11,3 +11,5 @@ show_excerpts: true
 sort_by: date
 sort_order: forward
 ---
+
+Coming soon...

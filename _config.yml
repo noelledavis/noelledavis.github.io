@@ -59,7 +59,7 @@ plugins:
 author:
   name   : "Noelle Davis"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "I'm an PhD student in Electrical Engineering at UC Berkeley studying sweat as a biosensing target."
+  bio    : "PhD EECS / UC Berkeley / 2025 \n BS EE / Caltech / 2020"
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
