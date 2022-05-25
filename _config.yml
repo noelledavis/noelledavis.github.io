@@ -19,7 +19,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   Noelle Davis
 twitter_username: 
 github_username: noelledavis
-linkedin_username: noelle-davis-8bba3316a
 minimal_mistakes_skin: default
 search: true
 
@@ -66,7 +65,7 @@ author:
       url: "https://linkedin.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/noelledavis"
 footer:
   links:
     - label: "LinkedIn"
@@ -74,7 +73,7 @@ footer:
       url: "https://www.linkedin.com/in/noelle-davis-8bba3316a/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/noelledavis"
 
 defaults:
   # _posts
