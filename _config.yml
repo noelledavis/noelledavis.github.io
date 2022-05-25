@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Noelle Davis"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "PhD EECS / UC Berkeley / ~2025 <br> BS EE / Caltech / 2020 \ noelle[at]eecs.berkeley.edu"
+  bio    : "PhD EECS &centerdot UC Berkeley &centerdot ~2025 <br> BS EE &centerdot Caltech &centerdot 2020 <br> noelle[at]eecs.berkeley.edu"
   links:
     - label: "Google Scholar"
       icon: "fab fa-fw fa-google"
