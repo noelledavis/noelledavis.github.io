@@ -17,5 +17,3 @@ group :jekyll_plugins do
 
   gem "jekyll-remote-theme"
 end
-
-remote_theme: benbalter/retlab

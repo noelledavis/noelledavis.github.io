@@ -96,10 +96,23 @@ defaults:
     values:
       layout: single
       author_profile: false
+  # _projects
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: single
+      author_profile: false
+      share: false
 
 tag_archive:
   type: liquid
-  path: /projects/
+  path: /tags/
 category_archive:
   type: liquid
   path: /categories/
+
+collections:
+  projects:
+    output: true
+    permalink: /:collection/:path/
