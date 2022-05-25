@@ -59,22 +59,19 @@ plugins:
 author:
   name   : "Noelle Davis"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "PhD EECS / UC Berkeley / 2025 \n BS EE / Caltech / 2020"
+  bio    : "PhD EECS / UC Berkeley / 2025 \n\n   BS EE / Caltech / 2020"
   links:
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/"
+    - label: "Google Scholar"
+      icon: "fab fa-fw fa-google"
+      url: "https://scholar.google.com/citations?user=apaTOlIAAAAJ&hl=en"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/noelledavis"
-footer:
-  links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/noelle-davis-8bba3316a/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/noelledavis"
+footer:
+  links:
 
 defaults:
   # _posts
@@ -84,7 +81,7 @@ defaults:
     values:
       layout: single
       show_date: true
-      author_profile: false
+      author_profile: true
       read_time: false
       comments: false
       share: false
@@ -95,7 +92,7 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: false
+      author_profile: true
   # _projects
   - scope:
       path: ""
