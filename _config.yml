@@ -97,9 +97,9 @@ defaults:
       layout: single
       author_profile: false
 
+tag_archive:
+  type: liquid
+  path: /projects/
 category_archive:
   type: liquid
   path: /categories/
-project_archive:
-  type: liquid
-  path: /projects/
