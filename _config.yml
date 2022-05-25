@@ -63,7 +63,7 @@ author:
   bio    : "PhD EECS / UC Berkeley / ~2025 \n    BS EE / Caltech / 2020"
   links:
     - label: "Google Scholar"
-      icon: "fab fa-fw fa-googlescholar"
+      icon: "fab fa-fw fa-google"
       url: "https://scholar.google.com/citations?user=apaTOlIAAAAJ&hl=en"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -72,7 +72,7 @@ author:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/noelle-davis-8bba3316a/"
     - label: "noelle[at]eecs.berkeley.edu"
-      icon: "fab fa-fw fa-email"
+      icon: "fab fa-fw fa-circle-envelope"
 footer:
   links:
 
