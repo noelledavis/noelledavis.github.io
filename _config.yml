@@ -54,6 +54,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-remote-theme
 
 author:
   name   : "Noelle Davis"
@@ -82,22 +83,23 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+      show_date: true
+      author_profile: false
+      read_time: false
+      comments: false
+      share: false
+      related: false
   # _pages
   - scope:
       path: "_pages"
       type: pages
     values:
       layout: single
-      author_profile: true
+      author_profile: false
 
 category_archive:
   type: liquid
   path: /categories/
-tag_archive:
+project_archive:
   type: liquid
-  path: /tags/
+  path: /projects/
