@@ -71,6 +71,9 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/noelle-davis-8bba3316a/"
+    - label: "Resume"
+      icon: "far fa-fw fa-file-pdf"
+      url: "/assets/NoelleDavis_Resume.pdf"
     - label: "noelle[at]eecs.berkeley.edu"
       icon: "fab fa-fw fa-circle-envelope"
 footer:
