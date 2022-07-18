@@ -14,10 +14,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Noelle Davis
+title: noelle davis
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Noelle Davis
+  Noelle Davis's personal website
 twitter_username: 
 github_username: noelledavis
 minimal_mistakes_skin: default
@@ -58,20 +58,20 @@ plugins:
   - jekyll-remote-theme
 
 author:
-  name   : "Noelle Davis"
+  # name   : "noelle davis"
   avatar : "/assets/images/noelle.jpg"
-  bio    : "PhD EECS &#183; UC Berkeley &#183; ~2025 <br> BS EE &#183; Caltech &#183; 2020 <br> <em>noelle[at]eecs.berkeley.edu</em>"
+  bio    : "graduate student 🚲⚡🌁💧 <br> ph.d. eecs &#183; uc berkeley ~2025 <br> b.s. ee &#183; caltech 2020 <br> <em>noelle[at]eecs.berkeley.edu</em>"
   links:
-    - label: "Google Scholar"
+    - label: "google scholar"
       icon: "fab fa-fw fa-google"
       url: "https://scholar.google.com/citations?user=apaTOlIAAAAJ&hl=en"
-    - label: "GitHub"
+    - label: "github"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/noelledavis"
-    - label: "LinkedIn"
+    - label: "linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/noelle-davis-8bba3316a/"
-    - label: "CV"
+    - label: "cv"
       icon: "far fa-fw fa-file-pdf"
       url: "/assets/NoelleDavis_CV.pdf"
 footer:
