@@ -60,7 +60,7 @@ plugins:
 author:
   # name   : "noelle davis"
   avatar : "/assets/images/noelle.jpg"
-  bio    : "graduate student 🚲⚡🌁💧 <br> ph.d. eecs &#183; uc berkeley ~2025 <br> b.s. ee &#183; caltech 2020 <br> <em>noelle[at]eecs.berkeley.edu</em>"
+  bio    : "graduate student 🚲💧⚡🩹 <br> ph.d. eecs &#183; uc berkeley ~2025 <br> b.s. ee &#183; caltech 2020 <br> <em>noelle[at]eecs.berkeley.edu</em>"
   links:
     - label: "google scholar"
       icon: "fab fa-fw fa-google"
@@ -105,6 +105,14 @@ defaults:
       layout: single
       author_profile: true
       share: false
+  # _design
+  - scope:
+      path: ""
+      type: design
+    values:
+      layout: single
+      author_profile: true
+      share: false
 
 tag_archive:
   type: liquid
@@ -117,3 +125,6 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/
+  design:
+    output: true
+    permalink: /:collection/:title/
