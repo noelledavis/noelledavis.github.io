@@ -13,3 +13,5 @@ header:
 This paper discusses the history and progress of the field of sweat sensing. We survey recent academic and commercial devices, touch on the paths of recent startups, discuss areas of research need, and offer our hypotheses on future directions of this sensing modality.
 
 ![image](/assets/images/review.png)
+
+![pdf](/assets/pdf/davis_2024_natbiotech_review.pdf)
