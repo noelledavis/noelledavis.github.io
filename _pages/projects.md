@@ -12,4 +12,4 @@ sort_by: date
 sort_order: forward
 ---
 
-Research projects page coming soon...
+Published and other shared research projects.
