@@ -12,4 +12,4 @@ sort_by: date
 sort_order: forward
 ---
 
-Published and other shared research projects.
+Published research projects and other shared ideas.
