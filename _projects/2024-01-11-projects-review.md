@@ -1,5 +1,5 @@
 ---
-title: "Project: The challenges and promise of sweat sensing (review paper)"
+title: "The challenges and promise of sweat sensing (review paper)"
 last_modified_at: 2024-01-11T16:20:02-05:00
 categories:
   - projects
