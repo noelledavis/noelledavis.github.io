@@ -6,6 +6,8 @@ categories:
 tags:
   - paper
   - review
+header:
+  teaser: /assets/images/review.png
 ---
 
-This project integrates a custom-molded PDMS pressure pump (like a suction cup) with a microfluidic sensing device to enable extended measurement times across multiple fills of the microfluidic channel. 
+This paper discusses the history and progress of the field of sweat sensing. We survey recent academic and commercial devices, touch on the paths of recent startups, list topics with research needs, and offer our hypotheses on future directions of this sensing modality.
