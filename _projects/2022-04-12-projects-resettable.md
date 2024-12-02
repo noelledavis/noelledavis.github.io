@@ -6,7 +6,9 @@ categories:
 tags:
   - paper
 header:
-  teaser: /assets/images/resettable.tif
+  teaser: /assets/images/resettable.png
 ---
 
 This project integrates a custom-molded PDMS pressure pump (like a suction cup) with a microfluidic sensing device to enable extended measurement times across multiple fills of the microfluidic channel. 
+
+![image](/assets/images/resettable.png)
