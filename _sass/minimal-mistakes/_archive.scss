@@ -76,6 +76,21 @@
   }
 }
 
+.archive__item-subtitle {
+  margin-top: 0;
+  margin-bottom: 0.25em;
+  font-size: $type-size-6;
+  color: $muted-text-color;
+
+  & + p {
+    text-indent: 0;
+  }
+
+  a {
+    position: relative;
+  }
+}
+
 .archive__item-excerpt {
   margin-top: 0;
   font-size: $type-size-6;
@@ -93,9 +108,9 @@
   position: relative;
   border-radius: $border-radius;
   overflow: hidden;
-
+  text-align: center;
   img {
-    height: 100px;
+    height: 90px;
   }
 }
 
@@ -215,7 +230,16 @@
 
   .archive__item-title {
     margin-top: 0.5em;
-    font-size: $type-size-5;
+    font-size: $type-size-6;
+  }
+
+  .archive__item-subtitle {
+    display: none;
+
+    @include breakpoint($medium) {
+      display: block;
+      font-size: $type-size-7;
+    }
   }
 
   .archive__item-excerpt {

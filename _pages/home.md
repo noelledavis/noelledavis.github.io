@@ -9,3 +9,9 @@ Hi, I'm Noelle! I'm an PhD candidate in <a href="https://eecs.berkeley.edu/">Ele
 I am affiliated with the <a href="https://bsac.berkeley.edu/">Berkeley Sensors and Actuators Center</a> and supported by an <a href="https://ndseg.org/">NDSEG Fellowship</a>.
 
 Previously, I received a B.S. in Electrical Engineering from <a href="https://ee.caltech.edu/">Caltech</a>, where I worked on biomedical sensing with <a href="https://nanofab.caltech.edu/">Axel Scherer</a>.
+
+<!-- ---
+
+<h1> Papers </h1>
+(* denotes equal contribution)
+ -->

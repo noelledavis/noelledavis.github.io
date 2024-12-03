@@ -9,7 +9,7 @@ classes: wide
 show_excerpts: true
 
 sort_by: date
-sort_order: forward
+sort_order: reverse
 ---
 
 Published research projects and other shared ideas.
