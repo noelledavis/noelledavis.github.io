@@ -1,5 +1,5 @@
 ---
-title: "The giving trees: From greenhouse gases to new trees"
+title: "The giving trees: From greenhouse gases to new leaves"
 subtitle: "<b>Noelle Davis</b>. <u>Berkeley Science Review</u> (2024)."
 link: "https://www.berkeleysciencereview.com/article/2024/10/02/the-giving-trees"
 last_modified_at: 2024-10-02

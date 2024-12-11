@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-# gem "github-pages", group: :jekyll_plugins
+# gem "github-pages", group: :jekyll_plugins # this was an old github pages compatibility thing, have now gone around it by using github actions
 gem "jekyll", "~> 3.7"
 gem "minimal-mistakes-jekyll"
 
