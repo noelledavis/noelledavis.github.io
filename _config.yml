@@ -61,7 +61,7 @@ plugins:
 author:
   # name   : "noelle davis"
   avatar : "/assets/images/noelle.jpg"
-  bio    : "graduate student 🚲💧⚡🩹 <br> ph.d. eecs &#183; uc berkeley ~2025 <br> b.s. ee &#183; caltech 2020 <br> <em>noelle[at]eecs.berkeley.edu</em>"
+  bio    : "graduate student 🚲💧⚡🩹 <br> ph.d. eecs &#183; uc berkeley july 2025 <br> b.s. ee &#183; caltech 2020 <br> <em>noelle[at]eecs.berkeley.edu</em>"
   links:
     - label: "google scholar"
       icon: "fab fa-fw fa-google"
@@ -74,7 +74,7 @@ author:
       url: "https://www.linkedin.com/in/noelle-davis-8bba3316a/"
     - label: "cv"
       icon: "far fa-fw fa-file-pdf"
-      url: "/assets/NoelleDavis_CV.pdf"
+      url: "/assets/NoelleDavis_CV_July2025.pdf"
 footer:
   links:
 
