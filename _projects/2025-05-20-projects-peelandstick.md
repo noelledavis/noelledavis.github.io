@@ -7,7 +7,7 @@ categories:
 tags:
   - paper
 header:
-  teaser: /assets/images/peelandstick.png
+  teaser: /assets/images/peelandstick.jpg
 ---
 
 
