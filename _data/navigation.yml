@@ -1,6 +1,6 @@
 main:
-  - title: "projects"
-    url: /projects/
+  # - title: "projects"
+  #   url: /projects/
   # - title: "Blog"
   #   url: /categories/
   # - title: "design"
