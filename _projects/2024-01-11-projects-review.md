@@ -1,6 +1,6 @@
 ---
 title: "The challenges and promise of sweat sensing"
-subtitle: "<b>Noelle Davis</b>, Jason Heikenfeld, and Ali Javey. <u>Nature Biotechnology</u> (2024)."
+subtitle: "<b>Noelle Davis</b>, Jason Heikenfeld, Carlos Milla, and Ali Javey. <u>Nature Biotechnology</u> (2024)."
 
 last_modified_at: 2024-01-11
 categories:
